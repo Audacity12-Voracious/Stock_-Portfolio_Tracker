@@ -1,0 +1,9 @@
+Stock Portfolio Summary
+------------------------------------
+AAPL: Quantity: 4, Price: $313, Total Value: $1252
+NVDA: Quantity: 5, Price: $210, Total Value: $1050
+-----------------------------------
+
+Total Investment Value: $2302
+-----------------------------------
+Thank you for using the Stock Portfolio Tracker!
